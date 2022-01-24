@@ -1,0 +1,11 @@
+
+
+		***************** THIS IS A DEMO APP FOR OBJECT DETECTION IN PYTORCH *************************
+https://github.com/pytorch/android-demo-app/blob/master/ObjectDetection/app/src/main/java/org/pytorch/demo/objectdetection/MainActivity.java
+
+
+		***************** THIS IS A DEMO APP FOR SPEECH RECOGNITION IN PYTORCH *************************
+https://github.com/pytorch/android-demo-app/blob/master/SpeechRecognition/create_wav2vec2.py
+
+		***************** THIS IS A PYTORCH DISCUSSION FORM WHICH SOLVED MY ISSUES *************************
+https://discuss.pytorch.org/t/unable-to-get-pytorch-1-9-working-on-android-couldnt-find-libpytorch-jni-so/124280
